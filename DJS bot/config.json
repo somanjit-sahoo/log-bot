@@ -1,0 +1,5 @@
+{
+    "token": "your bot's token (Don't leave any spaces)",
+    "prefix": "prefix you want in the bot ( used while setting log channels )",
+    "mongooseConnectionString": "your mongoDB uri"
+}
