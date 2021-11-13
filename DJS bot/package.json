@@ -20,4 +20,5 @@
         "glob": "^7.2.0",
         "mongoose": "^6.0.2"
     }
+    //It has some packages that aren't required, Reason why they are still here: I made this code under Reconlx's music bot's handler!, Else its all my personal codes!
 }
